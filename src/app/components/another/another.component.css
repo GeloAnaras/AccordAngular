@@ -17,9 +17,9 @@
   color: whitesmoke;
   padding: 10px;
 }
-.container{
-  display: flex;
-}
-.container div:first-child{
-  margin-right: 40px;
+.line{
+  width: 100px;
+  height: 20px;
+  background: fuchsia;
+  margin: 10px;
 }
